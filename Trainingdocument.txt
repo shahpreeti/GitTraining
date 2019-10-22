@@ -1,0 +1,40 @@
+commands:
+
+path on cmd: 
+till your project
+
+
+1. git init--> initialize the connection with server
+creates .git file (if already exist then replace it)
+
+2. git config-->
+
+3. git help
+
+4. git clone <url>
+
+downloads project on your local machine from server for the first time
+
+5. git add <file1, file2.....> 
+pushes files on server
+
+6. git add.
+pushes all the files
+
+7. git status
+will display the files which are modified so that we can add those files
+
+8. git branch
+will display all the branches and active branch will be starting with a * and in green color
+
+9. git checkout <branch_name>
+to switch from one branch to another
+
+10. git log
+will display details of changes (commits and all)
+
+11. git pull origin
+pull from active branch
+	git pull origin <branch_name>
+pull from mentioned branch(this is forcefully)
+
